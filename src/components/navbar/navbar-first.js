@@ -9,7 +9,7 @@ function navbar() {
     return (
 
         <nav class="navbar" >
-            <a href='/'>
+            <a href='https://mickey-mi.github.io/pd/",'>
                 <div class="logo"><img className="logo" src={logo} alt="logo" /></div>
             </a>
             <ul class="nav-links">
@@ -19,14 +19,14 @@ function navbar() {
 
 
                     <li class="services">
-                        <a href="/note">
+                        <a href="https://mickey-mi.github.io/takenotes/">
                             TakeNotes
                         </a>
                     </li>
 
 
 
-                    <li><a href='/'>
+                    <li><a href='https://mickey-mi.github.io/pd/'>
                         Back to Home
                     </a></li>
 
